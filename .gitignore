@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.egg-info/
+*.pyc
+select-context.json
+test_agent_tree/
+webpage-movies/
+
+# sekrety / system
+.DS_Store
+secrets.h
+secrets.py
